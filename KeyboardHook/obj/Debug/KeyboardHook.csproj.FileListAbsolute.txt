@@ -1,0 +1,7 @@
+D:\workhere\KeyboardHook\KeyboardHook\bin\Debug\KeyboardHook.exe.config
+D:\workhere\KeyboardHook\KeyboardHook\bin\Debug\KeyboardHook.exe
+D:\workhere\KeyboardHook\KeyboardHook\bin\Debug\KeyboardHook.pdb
+D:\workhere\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.csprojAssemblyReference.cache
+D:\workhere\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.csproj.CoreCompileInputs.cache
+D:\workhere\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.exe
+D:\workhere\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.pdb
