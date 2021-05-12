@@ -77,7 +77,8 @@ namespace KeyboardHook
                 if (wp == WM_KEYDOWN || wp == WM_SYSKEYDOWN) {
                     KeyDown(this, eventArgs);
                 }
-                else if (wp == WM_KEYUP || wp == WM_SYSKEYUP){
+
+                else if (wp == WM_KEYUP || wp == WM_SYSKEYUP){
                     KeyUp(this, eventArgs);
                 }
                 */
